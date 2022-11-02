@@ -6,10 +6,10 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: brownfield-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/datacheck-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/datacheck-apis-swagger.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -19,10 +19,10 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: brownfield-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/donations-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/donations-apis-swagger.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -32,10 +32,10 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: brownfield-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/insurance-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/insurance-apis-swagger.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -45,10 +45,10 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: brownfield-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/payments-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/payments-apis-swagger.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -58,10 +58,10 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: brownfield-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/suppliers-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/suppliers-apis-swagger.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -71,10 +71,10 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: public-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/locations-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/locations-apis-swagger.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -84,10 +84,10 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: public-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/sentiment-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/sentiment-apis-swagger.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -97,7 +97,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: integration
-  owner: dekt-app-ops
+  owner: hope-app-ops
   system: public-apis
   definition:
-    $text: https://github.com/dektlong/dekt-devx-demo/blob/main/backstage/apis/sms-apis-swagger.yaml
+    $text: https://github.com/Tembhum/dekt-devx-demo/blob/main/backstage/apis/sms-apis-swagger.yaml

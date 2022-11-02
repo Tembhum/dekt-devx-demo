@@ -4,6 +4,6 @@ metadata:
   name: my-phyton-data-transform-process
 spec:
   git:
-    url: https://github.com/dektlong/python-data-transform
+    url: https://github.com/Tembhum/python-data-transform
     ref:
       branch: main

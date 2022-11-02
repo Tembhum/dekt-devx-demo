@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: dekt-dev-team1
+  name: hope-dev-team1
   description: Developement team1
 spec:
   type: team
   profile:
-    displayName: dekt-dev-team1
+    displayName: hope-dev-team1
     email: dekel@vmware.com
     picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
   parent: default-org
@@ -15,12 +15,12 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: dekt-dev-team2
+  name: hope-dev-team2
   description: Developement team2
 spec:
   type: team
   profile:
-    displayName: dekt-dev-team2
+    displayName: hope-dev-team2
     email: dekel@vmware.com
     picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
   parent: default-org
@@ -29,7 +29,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: dekt-app-ops
+  name: hope-app-ops
   description: Applications operation team
 spec:
   type: team
@@ -43,7 +43,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: dekt-platform-ops
+  name: hope-platform-ops
   description: Platform operation team
 spec:
   type: team

@@ -7,5 +7,5 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
 spec:
   type: network
-  owner: dekt-platform-ops
+  owner: hope-platform-ops
   system: devx-mood

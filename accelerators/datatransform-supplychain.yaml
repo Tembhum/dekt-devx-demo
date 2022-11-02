@@ -4,6 +4,6 @@ metadata:
   name: datatransform-supplychain
 spec:
   git:
-    url: https://github.com/dektlong/datatransform-supplychain
+    url: https://github.com/Tembhum/datatransform-supplychain
     ref:
       branch: main

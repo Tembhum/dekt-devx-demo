@@ -7,3 +7,4 @@
 # ignore carvel bundle
 scripts/carvel/bundle
 
+.vscode

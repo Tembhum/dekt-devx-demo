@@ -4,6 +4,6 @@ metadata:
   name: my-kafka-eventing-app
 spec:
   git:
-    url: https://github.com/dektlong/spring-kafka
+    url: https://github.com/Tembhum/spring-kafka
     ref:
       branch: main
